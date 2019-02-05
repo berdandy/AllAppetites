@@ -6,6 +6,8 @@ Everybody has more games they want to play than they reasonably have time for. F
 
 > In talking about tabletop roleplaying games we usually draw a distinction between the Players and the Game Master or person running the game. For the purposes of this concept, everyone who participates in the game is a player, no matter which side of the table or screen they’re on.
 
+> Some suggested ways of implementing this model using itch.io's store system are provided. Feel free to adapt to any other storefront or system.
+
 ## The Bite
 
 Imagine you’re demoing this game to your friends and you want to quickly show them the cool parts
