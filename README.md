@@ -16,7 +16,7 @@ Imagine you’re demoing this game to your friends and you want to quickly show 
 
 Say you want to try out The Burning Wheel, but you only have fifteen minutes. Fifteen minutes is not enough time to go through all of The Burning Wheel’s rules and mechanics, but it might be enough time to go through one or two scenarios, to give you a feel for what the game is like. The Bite is designed to satisfy player curiosity, to demonstrate what the game’s mechanics are like without exposing the player to all of the game’s more complicated rules.
 
-To implement this on itch.io, set your product to “$0 or Donation." Doing it this way allows you to charge for _Bowl_ or _Buffet_ prices later, with the minor annoyance of having a separate product for the demo.
+> To implement this on itch.io, set your product to “$0 or Donation." Doing it this way allows you to charge for _Bowl_ or _Buffet_ prices later, with the minor annoyance of having a separate product for the demo.
 
 ## The Bowl
 
@@ -29,7 +29,7 @@ Imagine you have a group that wants to play but can’t commit to a campaign and
 
 The Bowl is meant for players who want to play the game, but don’t have time for or aren’t interested in building a longer campaign that will require scheduling or tracking of character sheets. Sometimes you just want to kill a dragon, and that’s okay. The Bowl gives you everything you need to Play the Game, without the need to spend time beforehand crafting characters, filling out character sheets or playbooks, or designing dungeons. Everything is ready for you out of the box. People averse to prep or those who like packages experiences might prefer The Bowl.
 
-To implement this on itch.io, set your product up as a paid product. Set a minimum price for the Bowl level.
+> To implement this on itch.io, set your product up as a paid product. Set a minimum price for the Bowl level.
 
 ## The Buffet
 
@@ -43,7 +43,7 @@ Imagine you want to absorb the game’s entire rule set and use it to run a full
 
 The Buffet, then, is for people who love roleplaying games and specifically love this roleplaying, and who want to play a longer campaign with the same characters, who want to dive deep into the rules and master every aspect of the world and its mechanics.
 
-To implement this on itch.io, set up a paid product, as above. In this case, however, additionally set up a sale subtracting the value of The Bowl off of The Buffet... with the **Sale Condition** that a customer must own The Bowl product already. In this way, previous purchasers of The Bowl may later upgrade to The Buffet without additional cost.
+> To implement this on itch.io, set up a paid product, as above. In this case, however, additionally set up a sale subtracting the value of The Bowl off of The Buffet... with the **Sale Condition** that a customer must own The Bowl product already. In this way, previous purchasers of The Bowl may later upgrade to The Buffet without additional cost.
 
 ## Pricing
 
