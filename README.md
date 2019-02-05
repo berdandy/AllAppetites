@@ -10,7 +10,7 @@ Everybody has more games they want to play than they reasonably have time for. F
 
 Imagine you’re demoing this game to your friends and you want to quickly show them the cool parts
 
-* Free
+* Suggested price: Free
 * Enough content to play through a short (~15-minute?) scenario
 * No prep required
 
@@ -20,7 +20,7 @@ Say you want to try out The Burning Wheel, but you only have fifteen minutes. Fi
 
 Imagine you have a group that wants to play but can’t commit to a campaign and don’t have time to plan something ahead of time, and you don’t want to spend a ton of time making characters
 
-* ~USD$10
+* Suggested price: ~USD$10-20
 * Enough content to play through a full first session
 * Premade Characters, Premade Scenario, Lightly Scripted
 * Minimal prep required (choosing characters, picking a scenario)
@@ -31,7 +31,7 @@ The Bowl is meant for players who want to play the game, but don’t have time f
 
 Imagine you want to absorb the game’s entire rule set and use it to run a full-fledged campaign
 
-* ~USD$20
+* Suggested price: ~USD$20+
 * Enough content to learn and master the entire game, build a character or a campaign, play forever
 * Rules for building characters and scenarios
 * Comprehensive setting information
